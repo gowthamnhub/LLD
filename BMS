@@ -22,4 +22,5 @@ System:
 	--> Review/Rating System
 	--> Notification to theatres to block the seats during payment processing.
 	--> Notification to users about booking status (processing/confirmed)
+	--> Generate Ticket
 	--> Keep updating the current seat availability.
