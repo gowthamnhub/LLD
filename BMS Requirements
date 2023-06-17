@@ -1,0 +1,25 @@
+
+BOOK MY SHOW - LLD Requirements:
+==================================
+
+Actors: [User, Theatre, System]
+-------
+User:
+	--> Search for movies/theatres based on location/language
+	--> Select the movie/theatre
+	--> Select timing and seats
+	--> Book Ticket
+	--> Complete payment (add on apply promo/offer if there are any)
+	--> Receive Booking Confirmation status - Email/SMS/Whatsapp
+
+Theatre:
+	--> Add/Modify/Remove Movies and Timings
+	--> To block the seats during payment processing
+	--> Send confirmation once payment completed.
+		
+System:
+	--> Onboarding of theatres
+	--> Review/Rating System
+	--> Notification to theatres to block the seats during payment processing.
+	--> Notification to users about booking status (processing/confirmed)
+	--> Keep updating the current seat availability.
